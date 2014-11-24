@@ -1,1 +1,6 @@
 *
+!/bin
+!/bin/Xresources.edit
+!/bin/Xresources.edit/Xresources.edit
+!/.gitignore.d
+!/.gitignore.d/Xresources
