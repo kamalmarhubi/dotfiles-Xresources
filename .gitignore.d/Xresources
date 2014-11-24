@@ -2,6 +2,9 @@
 !/bin
 !/bin/Xresources.edit
 !/bin/Xresources.edit/Xresources.edit
+!/.config
+!/.config/base16-xresources
+!/.config/base16-xresources/*
 !/.gitignore.d
 !/.gitignore.d/Xresources
 !/.Xresources.edit
